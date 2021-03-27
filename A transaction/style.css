@@ -1,0 +1,180 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+#back{
+	background-image: url("back.jpg");
+	background-size: cover;
+	background-position: center;	
+	background-attachment: fixed;
+	height: 100vh;
+	width: 100%;
+}
+
+.front{
+	height: 545px;
+	width: 415px;
+	background-color: #fff;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    border-radius: 9px;
+}
+
+.img1{
+    width: 230px;
+    padding-left: 50px;
+    padding-top: 45px;
+}
+.row{
+    display: inline-flex;
+    padding-left: 30px;
+    padding-top: 24px;
+}
+.col-sm-3{
+	margin-left: 16px;
+}
+
+.img2{
+	width: 30px;
+	height: 20px;
+	border: 1px solid #555;
+	border-radius: 5px;
+	padding-top: 11px;
+	padding-bottom: 11px;
+	padding-right: 18px;
+	padding-left: 18px;
+}
+.img3{
+	width: 49px;
+	height: 25px;
+	border: 1px solid #555;
+	border-radius: 5px;
+	padding-top: 9px;
+	padding-bottom: 9px;
+	padding-left: 9px;
+	padding-right: 9px;
+}
+
+.img2:hover{
+	border: 2px solid blue;
+}
+.img3:hover{
+	border: 2px solid blue;
+}
+
+.col-lg-6{
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
+.name input{
+	margin-left: 45px;
+	padding-top: 26px;
+	padding-bottom: 7px;
+	padding-left: 22px;
+	padding-right: 126px;
+	border: 1px solid #555;
+	border-radius: 5px;
+	font-size: 14px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	outline: none !important;
+}
+
+.name input:focus{
+	border: 2px solid blue;
+}
+.card input:focus{
+	border: 2px solid blue;
+}
+.col-md-6 input:focus {
+	border: 2px solid blue;
+}
+
+.card input{
+	margin-left: 45px;
+	padding-top: 26px;
+	padding-bottom: 7px;
+	padding-left: 22px;
+	padding-right: 126px;
+	border: 1px solid #555;
+	border-radius: 5px;
+	font-size: 15px;
+	outline: none !important;
+}
+
+.col-md-6 input{
+	width: 137px;
+	padding-top: 26px;
+	padding-bottom: 7px;
+	font-size: 15px;
+	border-radius: 5px;
+    padding-left: 15.5px;
+    margin-left: 17px;
+    border: 1px solid #555;
+    outline: none !important;
+}
+
+.btn{
+	background-color: blue;
+	margin-left: 46px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+    text-align: center;
+    font-size: 15px;
+    color: #fff;
+    padding-left: 110px;
+    padding-right: 110px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+}
+
+.label1{
+	position: absolute;
+	margin-left: 66px;
+	padding-top: 17px;
+	padding-bottom: 11px;
+	color: blue;
+	font-size: 13px;
+}
+.label2{
+	position: absolute;
+	margin-left: 67px;
+	padding-top: 6px;
+	padding-bottom: 8px;
+	color: blue;
+	font-size: 13px;
+}
+.label3{
+	position: absolute;
+	margin-left: 33px;
+	padding-top: 6px;
+	padding-bottom: 7px;
+	color: blue;
+	font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
